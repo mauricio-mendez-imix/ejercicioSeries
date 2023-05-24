@@ -1,1 +1,3 @@
 # ejercicioSeries
+
+primer cambio
